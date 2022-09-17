@@ -8,7 +8,7 @@ permissions:
   contents: read
 
 jobs:
-  deploy:
+  deploy_to_DockerHub_as_Package:
 
     runs-on: ubuntu-latest
 
